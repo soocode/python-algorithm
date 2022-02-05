@@ -18,23 +18,3 @@ for i in range(1,N) :
         endTime = schedule[i][1]
 
 print(count)
-       
-
-
-
-
-
-        
-        
-
-    
-            
-        
-        
-    
-
-    
-    
-    
-
-    
