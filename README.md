@@ -1,2 +1,2 @@
 # python-algorithms
-A repo containing Python practice codes
+Algorithm practice codes in Python
